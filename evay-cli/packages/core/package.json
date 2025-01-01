@@ -1,0 +1,32 @@
+{
+  "name": "@evay-cli/core",
+  "version": "1.0.0",
+  "description": "evay cli core",
+  "author": "Evay <1967374910@qq.com>",
+  "homepage": "https://github.com/DingYiWeiJE/lerna#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DingYiWeiJE/lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/DingYiWeiJE/lerna/issues"
+  },
+  "depandencies": {
+    "@evay-cli/utils": "^1.0.0"
+  }
+}
