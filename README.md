@@ -74,3 +74,11 @@ lerna run --scope @evay-cli/utils test
 npm tun test
 ```
 
+# 查看变更
+
+```
+lerna change
+```
+
+
+
