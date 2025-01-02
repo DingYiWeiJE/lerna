@@ -1,6 +1,6 @@
 {
   "name": "@evay-cli/core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "evay cli core",
   "author": "Evay <1967374910@qq.com>",
   "homepage": "https://github.com/DingYiWeiJE/lerna#readme",
@@ -29,5 +29,5 @@
   "depandencies": {
     "@evay-cli/utils": "^1.0.0"
   },
-  "gitHead": "1fd2df571181ee379f6922307cd342d027c32208"
+  "gitHead": "f21ff8cc3aced70ce17053652c1486a73d31c1aa"
 }
