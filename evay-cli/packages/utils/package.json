@@ -1,6 +1,6 @@
 {
   "name": "@evay-cli/utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "Evay <1967374910@qq.com>",
   "homepage": "https://github.com/DingYiWeiJE/lerna#readme",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/DingYiWeiJE/lerna/issues"
-  }
+  },
+  "gitHead": "dc90798c9de352c98a254c71bb60b0845a8ab03b"
 }
